@@ -1,5 +1,8 @@
 export const colors = {
   purple: '#A097A7',
+  black: '#535353',
+  gray: '#ECECEC',
+  white: '#FFFFFF',
 };
 
 export const fonts = {
