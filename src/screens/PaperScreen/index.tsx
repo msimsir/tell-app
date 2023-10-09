@@ -1,12 +1,14 @@
-import {View, Text} from 'react-native';
+import {View} from 'react-native';
 import React from 'react';
 
-const PaperSCreen = () => {
+import TextElement from '../../components/ui/TextElement';
+
+const PaperScreen = () => {
   return (
     <View>
-      <Text>PaperSCreen</Text>
+      <TextElement>Paper Screen</TextElement>
     </View>
   );
 };
 
-export default PaperSCreen;
+export default PaperScreen;
